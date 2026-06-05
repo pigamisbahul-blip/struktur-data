@@ -127,7 +127,6 @@ Berikut adalah panduan langkah demi langkah untuk mengoperasikan sistem pemesana
 2. **Aktifkan Fitur**: Secara default fitur suara aktif. Jika Anda merasa terganggu atau ingin menghemat kuota, Anda dapat menekan tombol **"Matikan Suara"** di sidebar kiri.
 3. **Interaksi Manual**: Jika suara tidak berputar otomatis di peramban (akibat kebijakan *Autoplay Block* pada browser modern), Anda cukup menekan tombol simbol **🔊** atau **"Info Kursi"** yang disediakan di sebelah baris menu navigasi.
 
-📊 Ilustrasi Alur Data Circular Linked List
 ---
 
 ## 📊 Ilustrasi Alur Data Circular Linked List
